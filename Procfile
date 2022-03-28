@@ -1,0 +1,1 @@
+web:gunicorn thursday.wsgi --log-file-
