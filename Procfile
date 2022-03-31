@@ -1,1 +1,1 @@
-web:gunicorn thursday.wsgi --log-file-
+web:gunicorn thursday.wsgi --log-file - 
